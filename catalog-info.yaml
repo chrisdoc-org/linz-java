@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "linz-java"
+  description: "linz-java"
+  annotations:
+    github.com/project-slug: chrisdoc-org/linz-java
+    backstage.io/techdocs-ref: url:https://github.com/chrisdoc-org/linz-java
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "chrisdoc-org"

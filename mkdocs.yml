@@ -1,0 +1,8 @@
+site_name: "linz-java"
+site_description: "linz-java"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
